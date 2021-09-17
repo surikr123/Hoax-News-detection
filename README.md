@@ -1,2 +1,2 @@
 # Hoax-News-detection
-Fake news detecton
+Fake news detection
